@@ -1,0 +1,37 @@
+.outside {
+    height: 400px;
+    width: 600px;
+    background: linear-gradient(135deg, #550055, #220022);;
+    border: solid 5px #000000;
+    border-radius: 30px;
+}
+
+.inside {
+    height: 200px;
+    width: 500px;
+    margin: 30px  auto;
+    border: solid 7px #000000;
+    border-radius: 20px;
+    background-color: #aaaaaa;
+    text-align: center;
+}
+
+
+#text {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.buttons {
+    height: 100px;
+    width: 500px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.buttons > button {
+    width: 150px;
+    height: 60px;
+    font-size: 24px;
+    font-weight: bold;
+}

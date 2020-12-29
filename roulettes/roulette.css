@@ -1,0 +1,45 @@
+#main_block {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#main_block > div {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    border-radius: 50%;
+    border: solid 2px #000000;
+    text-align : center;
+    vertical-align: middle;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.selected {
+    background-color: violet;
+}
+.activate {
+    background-color: blueviolet;
+}
+
+.confirm {
+    background-color: wheat;
+}
+
+
+.btn_block {
+width: 400px;
+margin: 0 auto;
+text-align: center;
+}
+
+.btn_block > button {
+    width: 80px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: bold;
+}
