@@ -1,0 +1,12 @@
+h3 {
+    font-size: large;
+    color: red;
+}
+
+table, td, th {
+    border: solid black 1px;
+}
+
+table {
+    width: 700px;
+}
