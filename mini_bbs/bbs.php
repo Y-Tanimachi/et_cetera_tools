@@ -56,7 +56,7 @@ if (is_readable($filename) === TRUE) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>提出課題BBS(10-1)</title>
+    <title>BBS</title>
     <link rel="stylesheet" href="bbs.css">
 </head>
 <body>
